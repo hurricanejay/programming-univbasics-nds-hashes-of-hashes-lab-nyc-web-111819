@@ -46,8 +46,8 @@ def naming_system
     label: "Kingdom",
     sub_category: {
       label: "Phylum",
-      sub_category
-        :Class=> {}
+      sub_category: {
+        label: "Class"}
   },
     :Order=> {}
   },
