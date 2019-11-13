@@ -53,7 +53,7 @@ def naming_system
       :Genus=> {}
   },
     :Species=> {}
-    
+    }
   }
 
 end
